@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry combineaccessrules="false" exported="true" kind="src" path="/Nebulous"/>
+	<classpathentry kind="lib" path="/Users/jameslennon/Documents/LibGDX/libgdx-nightly-latest/gdx-backend-robovm.jar" sourcepath="/Users/jameslennon/Downloads/libgdx-nightly-latest/sources/gdx-backend-robovm-sources.jar"/>
+	<classpathentry kind="lib" path="/Users/jameslennon/Documents/LibGDX/libgdx-nightly-latest/gdx.jar"/>
+	<classpathentry kind="lib" path="/Users/jameslennon/Documents/LibGDX/libgdx-nightly-latest/extensions/gdx-box2d/gdx-box2d-natives.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="org.robovm.eclipse.ROBOVM_COCOA_TOUCH_CONTAINER"/>
+	<classpathentry kind="con" path="org.robovm.eclipse.ROBOVM_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
